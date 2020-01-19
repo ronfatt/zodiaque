@@ -34,6 +34,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.4",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/zodiaque-logo-128x23.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined",
     "uniqCompNum": 3,
     "versionPublish": "4.11.4"
   },
