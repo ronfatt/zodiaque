@@ -945,6 +945,10 @@ section.lazy-placeholder:after {
 .cid-rNZzs4HDDs .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rNZzs4HDDs .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rNZzs4HDDs .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rNZzs4HDDs .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rNZzs4HDDs .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1045,6 +1049,10 @@ section.lazy-placeholder:after {
   .cid-rNZzs4HDDs .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rNZzs4HDDs .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-rNZzs4HDDs .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rNZzs4HDDs .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-rNZzs4HDDs .navbar-collapse.collapsing .navbar-buttons,
   .cid-rNZzs4HDDs .navbar-collapse.show .navbar-buttons {
