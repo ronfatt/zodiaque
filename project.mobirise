@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#dab866"
+        "#dab866",
+        "#0c0c0c"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -712,6 +713,12 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -739,14 +746,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "<br>THE COLLECTION",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "Explore our elegant fine jewellery collections combining extraordinary craftsmanship, exquisite materials and contemporary design, inspired by our unique archive and worn by royalty past and present since 2000.<br>",
+                "text": "<b>Explore our elegant fine jewellery collections combining extraordinary craftsmanship, exquisite materials and contemporary design, </b><br><b>inspired by our unique archive and worn by royalty past and present since 2000.</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EXPLORE THE COLLECTION</a> "
               },
               {
@@ -766,7 +773,8 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+                "overlayColor": "#cebfaf"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/013a0820.jpg-2000x1333.jpg",
